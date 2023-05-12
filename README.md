@@ -1,4 +1,4 @@
-# Code name: Project Root
+# Code name: Project Rooted
 
 # description
 This is a web application that allows users to use a terminal-style command-line user interface to load modules of courses and games
@@ -145,37 +145,37 @@ directory structure and a brief explanation of each file
 
 ```
 project-root/
-  ├── README.md
-  ├── favicon.ico
-  ├── package.json
-  ├── tsconfig.json
-  ├── app.json
-  ├── App.tsx
-  ├── babel.config.js
-  └── styles/
-  │   ├── README.md
-  │   └── style.css
-  └── assets/
-  │   ├── icon.png
-  │   └── splash.png
-  └── scripts/
-       ├── README.md
-       ├── store.tsx
-       └── modules/
-            ├── README.md
-            └── sample-module/
-                 ├── actions/
-                 │   ├── README.md
-                 │   └── *.tsx
-                 ├── actionTypes/
-                 │   ├── README.md
-                 │   └── *.tsx
-                 ├── components/
-                 │   ├── README.md
-                 │   └── *.tsx
-                 └── reducers/
-                      ├── README.md
-                      └── *.tsx
+  ├ README.md
+  ├ favicon.ico
+  ├ package.json
+  ├ tsconfig.json
+  ├ app.json
+  ├ App.tsx
+  ├ babel.config.js
+  └ styles/
+  │├ README.md
+  │└ style.css
+  └ assets/
+  │├ icon.png
+  │└ splash.png
+  └ scripts/
+    ├ README.md
+    ├ store.tsx
+    └ modules/
+      ├ README.md
+      └ sample-module/
+        ├ components/
+        │├ README.md
+        │└ *.tsx
+        └ reducers/
+          │├ README.md
+          │└ *.tsx
+          └ actions/
+            ├ README.md
+            └ *.tsx
+              └ actionTypes/
+                ├ README.md
+                └ *.tsx
 ```
 
 - `root/`: A directory that contains the public files used by the web application

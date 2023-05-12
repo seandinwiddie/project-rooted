@@ -1,9 +1,6 @@
-import { combineReducers } from 'redux';
+import { createStore } from 'redux';
+import rootReducer from './modules/sample-module/reducers';
 
-// add reducers here
+const store = createStore(rootReducer);
 
-const rootReducer = combineReducers({
-  // add reducers here
-});
-
-export default rootReducer;
+export { store };
