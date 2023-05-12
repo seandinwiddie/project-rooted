@@ -3,4 +3,4 @@ import rootReducer from './modules/sample-module/reducers';
 
 const store = createStore(rootReducer);
 
-export { store };
+export default store;
