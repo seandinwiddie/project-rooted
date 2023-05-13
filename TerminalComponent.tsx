@@ -1,5 +1,5 @@
 import React from 'react';
-import { Bash } from 'react-bash';
+import Terminal from 'react-bash';
 
 const commands = {
   echo: {
@@ -13,8 +13,15 @@ const commands = {
     }),
     usage: 'help',
   },
+  modules: {
+    method: ({ structure, ...props }) => {
+      const output = Object.values(structure).map((module) => module.name).join('\n');
+      return { output, structure, ...props };
+    },
+    description: 'List all available modules',
+  },
 };
 
 export default function TerminalComponent() {
-  return <Bash prefix=">" commands={commands} />;
+  return <Terminal prefix=">" extensions={commands} />;
 }
