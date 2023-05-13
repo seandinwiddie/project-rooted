@@ -4,28 +4,16 @@ import { Provider } from 'react-redux';
 import Terminal from 'react-bash';
 
 import store from './scripts/store';
-import modules from './scripts/modules';
+// import modules from './scripts/modules';
+import { modules } from './scripts/modules';
 import styles from './styles';
 
-
-const availableModules = [
-  {
-    name: 'Sample Module',
-    description: 'This is a sample module.',
-    reducer: require('./scripts/modules/sample-module/reducers').default,
-    commands: require('./scripts/modules/sample-module/commands').default,
-  },
-  // Add more modules here
-];
-
 export default function App() {
-  const [currentModule, setCurrentModule] = useState(availableModules[0]);
+  const [currentModule, setCurrentModule] = useState(modules.length > 0 ? modules[0] : {});
 
-  const moduleOptions = availableModules.map((module, index) => {
-    return {
-      name: `${index + 1}. ${module.name}`,
-      value: module,
-    };
+  const moduleOptions = {};
+  modules.forEach((module, index) => {
+    moduleOptions[`${index + 1}. ${module.name}`] = module;
   });
 
   return (
@@ -38,13 +26,7 @@ export default function App() {
           description={currentModule.description}
           commands={currentModule.commands}
           structure={moduleOptions}
-          theme={{
-            background: '#141414',
-            promptSymbolColor: '#f5f5f5',
-            commandColor: '#f5f5f5',
-            outputColor: '#f5f5f5',
-            errorOutputColor: '#ff6c6b',
-          }}
+          theme={Terminal.Themes.DARK}
           styles={{
             root: {
               height: '100%',

@@ -1,4 +1,6 @@
-export const ADD = 'ADD';
-export const REMOVE = 'REMOVE';
-export const UPDATE = 'UPDATE';
-export const SET_SAMPLE_DATA = 'SET_SAMPLE_DATA';
+export enum SampleActionTypes {
+  ADD = 'ADD',
+  REMOVE = 'REMOVE',
+  UPDATE = 'UPDATE',
+  SET_SAMPLE_DATA = 'SET_SAMPLE_DATA',
+}
