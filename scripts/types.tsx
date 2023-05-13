@@ -1,4 +1,4 @@
-export interface IModule {
+export interface ProjectFeature {
   name: string;
   description: string;
   reducer: (state: any, action: any) => any;

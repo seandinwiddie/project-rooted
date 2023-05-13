@@ -40,8 +40,8 @@ export default function App() {
 
   return (
     <Provider store={store}>
-      <View style={styles.container}>
-        <Text>Welcome to your Redux-powered app!</Text>
+      <View style={styles.appContainer}>
+        <Text style={styles.text}>Welcome to your Redux-powered app!</Text>
         <StatusBar style="auto" />
         <Terminal
           prefix={currentModule.name}

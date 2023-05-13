@@ -9,11 +9,11 @@ const sampleSlice = createSlice({
   name: 'sample',
   initialState,
   reducers: {
-    setSampleData: (state, action) => {
+    updateSampleData: (state, action) => {
       state.data = action.payload;
     },
   },
 });
 
-export const { setSampleData } = sampleSlice.actions;
+export const { updateSampleData } = sampleSlice.actions;
 export default sampleSlice.reducer;
