@@ -5,6 +5,8 @@ This is a web application that allows users to use a terminal-style command-line
 
 It is a simple application that guides users through the process like playing a MUD (Multi-User Dungeon)
 
+But also like Codecademy.com in that short tests are always being gone through
+
 The application uses Redux to manage the state of the application
 
 And React to render the application

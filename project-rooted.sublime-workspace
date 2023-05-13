@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 10174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAABkBAAAAAAAAGgEAAAAAAAAAAAAAGgEAAAAAAAAbAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQEAAAAAAAAZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "But"
+					},
+					"AwAAABsBAAAAAAAAHAEAAAAAAAAAAAAAHAEAAAAAAAAdAQAAAAAAAAAAAAAdAQAAAAAAAB4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwEAAAAAAAAbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": " also"
+					},
+					"BQAAAB4BAAAAAAAAHwEAAAAAAAAAAAAAHwEAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACEBAAAAAAAAAAAAACEBAAAAAAAAIgEAAAAAAAAAAAAAIgEAAAAAAAAjAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgEAAAAAAAAeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " li"
+					},
+					"AwAAACMBAAAAAAAAJAEAAAAAAAAAAAAAJAEAAAAAAAAlAQAAAAAAAAAAAAAlAQAAAAAAACYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "ke"
+					},
+					"AgAAACYBAAAAAAAAJwEAAAAAAAAAAAAAJwEAAAAAAAAoAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACgBAAAAAAAAKQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAEAAAAAAAAoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAACkBAAAAAAAARAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEMBAAAAAAAAQwEAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					2,
+					"right_delete",
+					null,
+					"AgAAACkBAAAAAAAAKQEAAAAAAAAMAAAAaHR0cHM6Ly93d3cuKQEAAAAAAAApAQAAAAAAAAEAAABj",
+					"AQAAAAAAAAABAAAANQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "C"
+					},
+					"AQAAACkBAAAAAAAAKgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " in"
+					},
+					"AwAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " that"
+					},
+					"BQAAADoBAAAAAAAAOwEAAAAAAAAAAAAAOwEAAAAAAAA8AQAAAAAAAAAAAAA8AQAAAAAAAD0BAAAAAAAAAAAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAD8BAAAAAAAAQAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwEAAAAAAAA/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "short"
+					},
+					"BQAAAEABAAAAAAAAQQEAAAAAAAAAAAAAQQEAAAAAAABCAQAAAAAAAAAAAABCAQAAAAAAAEMBAAAAAAAAAAAAAEMBAAAAAAAARAEAAAAAAAAAAAAARAEAAAAAAABFAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAEAAAAAAABAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEUBAAAAAAAARgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQEAAAAAAABFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "tests"
+					},
+					"BQAAAEYBAAAAAAAARwEAAAAAAAAAAAAARwEAAAAAAABIAQAAAAAAAAAAAABIAQAAAAAAAEkBAAAAAAAAAAAAAEkBAAAAAAAASgEAAAAAAAAAAAAASgEAAAAAAABLAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgEAAAAAAABGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": " are"
+					},
+					"BAAAAEsBAAAAAAAATAEAAAAAAAAAAAAATAEAAAAAAABNAQAAAAAAAAAAAABNAQAAAAAAAE4BAAAAAAAAAAAAAE4BAAAAAAAATwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " al"
+					},
+					"AwAAAE8BAAAAAAAAUAEAAAAAAAAAAAAAUAEAAAAAAABRAQAAAAAAAAAAAABRAQAAAAAAAFIBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "ways"
+					},
+					"BAAAAFIBAAAAAAAAUwEAAAAAAAAAAAAAUwEAAAAAAABUAQAAAAAAAAAAAABUAQAAAAAAAFUBAAAAAAAAAAAAAFUBAAAAAAAAVgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " bein"
+					},
+					"BQAAAFYBAAAAAAAAVwEAAAAAAAAAAAAAVwEAAAAAAABYAQAAAAAAAAAAAABYAQAAAAAAAFkBAAAAAAAAAAAAAFkBAAAAAAAAWgEAAAAAAAAAAAAAWgEAAAAAAABbAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgEAAAAAAABWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAAFsBAAAAAAAAXAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwEAAAAAAABbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFwBAAAAAAAAXQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					6,
+					"left_delete",
+					null,
+					"BgAAAFwBAAAAAAAAXAEAAAAAAAABAAAAIFsBAAAAAAAAWwEAAAAAAAABAAAAZ1oBAAAAAAAAWgEAAAAAAAABAAAAblkBAAAAAAAAWQEAAAAAAAABAAAAaVgBAAAAAAAAWAEAAAAAAAABAAAAZVcBAAAAAAAAVwEAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "being"
+					},
+					"BQAAAFcBAAAAAAAAWAEAAAAAAAAAAAAAWAEAAAAAAABZAQAAAAAAAAAAAABZAQAAAAAAAFoBAAAAAAAAAAAAAFoBAAAAAAAAWwEAAAAAAAAAAAAAWwEAAAAAAABcAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwEAAAAAAABXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": " gone"
+					},
+					"BQAAAFwBAAAAAAAAXQEAAAAAAAAAAAAAXQEAAAAAAABeAQAAAAAAAAAAAABeAQAAAAAAAF8BAAAAAAAAAAAAAF8BAAAAAAAAYAEAAAAAAAAAAAAAYAEAAAAAAABhAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": " through"
+					},
+					"CAAAAGEBAAAAAAAAYgEAAAAAAAAAAAAAYgEAAAAAAABjAQAAAAAAAAAAAABjAQAAAAAAAGQBAAAAAAAAAAAAAGQBAAAAAAAAZQEAAAAAAAAAAAAAZQEAAAAAAABmAQAAAAAAAAAAAABmAQAAAAAAAGcBAAAAAAAAAAAAAGcBAAAAAAAAaAEAAAAAAAAAAAAAaAEAAAAAAABpAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/seandinwiddie/Documents/GitHub/project-rooted"
+	],
+	"file_history":
+	[
+		"/Users/seandinwiddie/Documents/GitHub/sdin.dev/openai.html",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/readme.md",
+		"/Users/seandinwiddie/Public/js/character.js",
+		"/Users/seandinwiddie/Public/js/app.js",
+		"/Users/seandinwiddie/Public/index.html",
+		"/Users/seandinwiddie/Public/readme.md",
+		"/Users/seandinwiddie/Public/READMEs/architecture.md",
+		"/Users/seandinwiddie/Public/scripts/reducers/README.md",
+		"/Users/seandinwiddie/Public/scripts/components/README.md",
+		"/Users/seandinwiddie/Public/app.js",
+		"/Users/seandinwiddie/Documents/sample.html",
+		"/Users/seandinwiddie/Documents/GitHub/compliance-fork/reactDemo/index.cfm",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/store.js",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/reducers.js",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/app.js",
+		"/Users/seandinwiddie/Documents/GitHub/path.ogenic.us/index.html.old",
+		"/Users/seandinwiddie/Documents/GitHub/path.ogenic.us/index.html",
+		"/Users/seandinwiddie/Documents/202212131308.docx",
+		"/Users/seandinwiddie/202209241238",
+		"/Users/seandinwiddie/Documents/GitHub/fiction/README.md",
+		"/Users/seandinwiddie/Documents/GitHub/adultstherapy.com/index.html",
+		"/Applications/ColdFusion2021/cfusion/wwwroot/compliance/app/index.cfm",
+		"/Applications/ColdFusion2021/cfusion/wwwroot/compliance/app/cfc/UDFs/get/tmp.js",
+		"/Applications/ColdFusion2021/cfusion/wwwroot/compliance/app/participantReminderRunning.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/participantReminderForm.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resResults.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/reportsForm_companies.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/reportsDocument.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/report7Content.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resResultsData.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resController.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resDocument.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/index.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resContent.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resNotification.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/compAction.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/compForm.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/labels.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/css/core.css",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/css/core.css.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/consList.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/consListData.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/head.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/application.cfc",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/appOnErrorMessage.cfm"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project-rooted.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\seand\\OneDrive\\Documents\\GitHub\\seandinwiddie.com\\seandinwiddie-com.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

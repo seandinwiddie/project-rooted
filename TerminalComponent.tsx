@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { modules } from './scripts/modules';
 import Terminal from 'react-bash';
 
 const commands = {
@@ -22,6 +23,7 @@ const commands = {
   },
 };
 
+
 export default function TerminalComponent(props: any) {
-  return <Terminal prefix=">" extensions={{...commands, ...props.extensions}} />;
+   return <Terminal prefix=">" extensions={{...commands, ...props.extensions}} />;
 }
