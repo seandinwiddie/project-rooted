@@ -6,7 +6,6 @@ import Terminal from 'react-bash';
 import store from './scripts/store';
 import { modules } from './scripts/modules';
 import styles from './styles';
-import TerminalComponent from './TerminalComponent';
 
 export default function App() {
   const [currentModule, setCurrentModule] = useState(modules.length > 0 ? modules[0] : {});
@@ -19,8 +18,8 @@ export default function App() {
   const listModulesCommand = {
     command: 'modules',
     description: 'List all available modules',
-    executor: ({ structure, ...props }) => {
-      const output = moduleOptions.map((module) => module.name).join('\n');
+    executor: ({ structure, ...props }: any) => {
+      const output = Object.values(structure).map((module:any) => module.name).join('\n');
       return { output, structure, ...props };
     },
   };
@@ -44,10 +43,10 @@ export default function App() {
       <View style={styles.appContainer}>
         <Text style={styles.text}>Welcome to your Redux-powered app!</Text>
         <StatusBar style="auto" />
-        <TerminalComponent
+        <Terminal
           prefix={currentModule.name}
           description={currentModule.description}
-          // extensions={extensions}
+          extensions={extensions}
           structure={moduleOptions}
           theme={Terminal.Themes.DARK}
           styles={{
